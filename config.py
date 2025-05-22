@@ -1,7 +1,7 @@
-ENV = False # or True
+ENV = True # or True
 INTERACTIVE_MODE = False # or True
 WARP_CLIENT_ID = ""
-SEND_LOG = False # or True
+SEND_LOG = True # or True
 HIDE_WC_ID = True # or False
 TELEGRAM_BOT_TOKEN = ""
 CHAT_ID = ""
